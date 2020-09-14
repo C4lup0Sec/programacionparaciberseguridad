@@ -1,5 +1,6 @@
 """
-Carlos Martínez Hernández
+https://github.com/wolf9846/programacionparaciberseguridad
+Carlos Mz H
 este script hace consultas a la pagina de noticias de la UANL en un rango
 especifico dado por el ususario donde si el rango inicial es mayor que
 el final solo se tomara el final.

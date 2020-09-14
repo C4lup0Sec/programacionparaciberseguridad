@@ -1,4 +1,4 @@
-""" CARLOS ALFONSO MARTÍNEZ HERNÁNDEZ 1555760
+""" CARLOS Mz H
 """
 import sys
 from pyhunter import PyHunter
